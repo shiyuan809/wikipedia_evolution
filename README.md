@@ -1,2 +1,3 @@
 ## Wikipedia Evolution
-* [http://snap.stanford.edu/WikiLinkGraphs.tar](Source Graph)(80GB)
+* [Whole graph](http://snap.stanford.edu/WikiLinkGraphs.tar) (80GB)
+* [Dataset description and small snapshots download](http://disi.unitn.it/~consonni/datasets/wikilinkgraphs-rawwikilinks-snapshots/)
